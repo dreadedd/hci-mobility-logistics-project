@@ -1,0 +1,21 @@
+# Windows junk files
+Thumbs.db
+
+# Mac junk files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# VS Code local settings
+.vscode/
+
+# Private participant data
+docs/02-user-research/private/
