@@ -115,8 +115,14 @@ Based on this evidence, the following should be prioritised going into Requireme
 3. Consider surfacing **transport fare information** for taxis/ride-hailing, given how dominant cost complaints were in open-text answers, even though it wasn't the top checkbox item.
 4. Accessibility and delay/service notifications are lower-priority but still requested by roughly a quarter of respondents — worth including as secondary features.
 
+## Interview Evidence
+
+Photographic evidence of in-person interviews conducted with students on campus is available in `docs/02-user-research/interviews/` (4 photos, dated 2026-08-19). The photos show team members interviewing individual students and small groups at multiple campus locations.
+
+**Note:** the photos document that interviews took place but contain no readable notes, transcripts, or recorded answers. They cannot yet be used as a data source for findings — add written notes, an audio transcript, or a summary of what each interviewee said to fold interview insights into this analysis.
+
 ## Limitations
 
-- Sample is small (n=35) and skewed toward Level 200 students — not representative of the full student population.
+- Sample is small (n=35 survey respondents) and skewed toward Level 200 students — not representative of the full student population.
 - Self-selected respondents (Google Form) may over-represent students already frustrated with mobility issues.
-- No interview data yet — `docs/02-user-research/interviews/` is still empty. Interviews would help validate and deepen these survey findings before finalising requirements.
+- Interviews were conducted (see Interview Evidence above) but no transcript/notes exist yet to analyse — findings above are survey-only. Interview content would help validate and deepen these findings before finalising requirements.
