@@ -8,7 +8,7 @@ This document translates the findings from user research — the [Campus Mobilit
 
 - [Survey_Analysis.md](../03-research-analysis/Survey_Analysis.md) — analysis of 35 Google Form responses from University of Ghana students
 - [Survey_Responses.csv](../02-user-research/evidence/Survey_Responses.csv) — raw survey data
-- Interview photos exist in `docs/02-user-research/interviews/` as process evidence, but no transcript/notes are available yet — interview findings are **not** reflected below and should be added once notes exist.
+- [Interview Evidence (recalled post-hoc)](../03-research-analysis/Survey_Analysis.md#interview-evidence-recalled-post-hoc) — 3 interviews, reconstructed from interviewer memory rather than recorded live; corroborates FR1–FR4 but is limited (small, similar-demographic sample).
 
 ## User Needs
 
@@ -57,7 +57,7 @@ Derived directly from the survey's top problems and top feature requests:
 
 ## Open Items Requiring Further Research
 
-- Interview data is not yet available to validate/deepen these requirements — revisit this document once interview notes exist.
+- Interview data (n=3, recalled post-hoc) supports FR1–FR4 but all three interviewees shared similar demographics and were interviewed together — a broader/live-recorded interview round (different levels, genders, driver/staff perspectives) would strengthen validation.
 - Confirm which specific shuttle routes/stops exist on campus (needed to scope FR3–FR6 concretely).
 - Confirm whether "transport fares" (FR7) should cover only campus shuttle or also third-party taxi/ride-hailing estimates.
 - Sample was 80% Level 200 students — consider a small follow-up pass with Level 100/300/400 and postgraduate students, and with staff/drivers, before finalising requirements.

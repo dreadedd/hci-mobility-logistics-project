@@ -115,14 +115,24 @@ Based on this evidence, the following should be prioritised going into Requireme
 3. Consider surfacing **transport fare information** for taxis/ride-hailing, given how dominant cost complaints were in open-text answers, even though it wasn't the top checkbox item.
 4. Accessibility and delay/service notifications are lower-priority but still requested by roughly a quarter of respondents — worth including as secondary features.
 
-## Interview Evidence
+## Interview Evidence (recalled post-hoc)
 
-Photographic evidence of in-person interviews conducted with students on campus is available in `docs/02-user-research/interviews/` (4 photos, dated 2026-08-19). The photos show team members interviewing individual students and small groups at multiple campus locations.
+Photographic evidence of in-person interviews conducted with students on campus is available in `docs/02-user-research/interviews/` (4 photos, dated 2026-08-19). No notes were taken live during these interviews; the summary below was reconstructed afterward by the interviewers from memory (see `Interview_Recall_Worksheet.md` in the same folder) and should be read with that caveat — it is recalled, not recorded, evidence.
 
-**Note:** the photos document that interviews took place but contain no readable notes, transcripts, or recorded answers. They cannot yet be used as a data source for findings — add written notes, an audio transcript, or a summary of what each interviewee said to fold interview insights into this analysis.
+**Participants:** 3 separate Level 300 female students, interviewed on 19 August 2026 (afternoon, ~3–5pm) near the NNB car park. Interviewers: Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabelle Naa Dedei Armah.
+
+**Questions covered:** whether the timing of school shuttle arrivals is predictable, whether campus directions/navigation are clear, and whether an app showing live shuttle ETAs and accurate campus directions would be useful.
+
+**Converging theme across all three interviews:**
+- Shuttle arrival times were consistently described as unreliable, with no way to tell if a shuttle has been delayed or broken down en route — reinforcing the survey's #2/#3 most-common problems (shuttle unpredictability) and the #2 most-requested feature (live shuttle tracking).
+- Existing map apps were described as having inaccurate or outdated campus building/direction data, reinforcing the survey's top problem (finding buildings/lecture halls) and top-requested feature (interactive campus map).
+- On fares specifically, these three interviewees pushed back against the idea that an app needs dynamic pricing features — they described fares as fairly stable and said the main value would just be showing current prices, rather than anything more complex. This is a useful nuance against the survey's open-text finding that cost was the single most-mentioned frustration: it suggests the frustration may be more about the *price itself* being high, not that pricing is unclear or needs an in-app feature.
+- One representative quote (paraphrased, not verbatim, and not attributed to a single named individual): students want **live tracking of shuttle locations on campus**, rather than a static estimated time.
+
+**Interpretation caution:** all three interviewees were the same level and gender and were interviewed in the same location/time window, so this should be treated as one convergent snapshot rather than broad validation across the student population. It supports FR3/FR4 (live shuttle tracking, ETAs) and FR1/FR2 (interactive map, directions) but should not be used to deprioritise FR7 (fares) without further research, since only 3 (similar) students weighed in on that point.
 
 ## Limitations
 
 - Sample is small (n=35 survey respondents) and skewed toward Level 200 students — not representative of the full student population.
 - Self-selected respondents (Google Form) may over-represent students already frustrated with mobility issues.
-- Interviews were conducted (see Interview Evidence above) but no transcript/notes exist yet to analyse — findings above are survey-only. Interview content would help validate and deepen these findings before finalising requirements.
+- Interview evidence (n=3) was recalled from memory after the fact rather than recorded live, and all three interviewees shared similar demographics (Level 300, female) and were interviewed in the same session window — it corroborates the survey's top two problem areas but is not independent or broad validation, and should be weighted accordingly.
