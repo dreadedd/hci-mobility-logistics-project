@@ -119,7 +119,7 @@ Based on this evidence, the following should be prioritised going into Requireme
 
 Photographic evidence of in-person interviews conducted with students on campus is available in `docs/02-user-research/interviews/` (4 photos, dated 2026-08-19). No notes were taken live during these interviews; the summary below was reconstructed afterward by the interviewers from memory (see `Interview_Recall_Worksheet.md` in the same folder) and should be read with that caveat — it is recalled, not recorded, evidence.
 
-**Participants:** 3 separate Level 300 female students, interviewed on 19 August 2026 (afternoon, ~3–5pm) near the NNB car park. Interviewers: Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabelle Naa Dedei Armah.
+**Participants:** 3 separate Level 300 female students, interviewed on 19 August 2026 (afternoon, ~3–5pm) near the NNB car park. Interviewers: Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabele Naa Dedei Armah, Stephanie Kyerewaa Adjapong.
 
 **Questions covered:** whether the timing of school shuttle arrivals is predictable, whether campus directions/navigation are clear, and whether an app showing live shuttle ETAs and accurate campus directions would be useful.
 

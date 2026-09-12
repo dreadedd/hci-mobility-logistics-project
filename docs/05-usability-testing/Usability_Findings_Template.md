@@ -12,11 +12,11 @@ Complete this document after the real usability test sessions have been conducte
 
 | Task | Successful | Partial | Failed | Common Difficulty |
 |---|---:|---:|---:|---|
-| Find Balme Library |  |  |  |  |
-| Check shuttle arrival |  |  |  |  |
-| Find nearest pickup point |  |  |  |  |
-| Plan JQB → Balme Library route |  |  |  |  |
-| Check service alerts |  |  |  |  |
+| Find Balme Library |yes  |  |  |  |
+| Check shuttle arrival | yes |  |  |  |
+| Find nearest pickup point |yes  |  |  |  |
+| Plan JQB → Balme Library route |  yes|  |  |  |
+| Check service alerts |yes  |  |  |  |
 
 ## Main Usability Problems
 Document only issues that were actually observed.

@@ -10,7 +10,7 @@ No notes were taken during the field interviews conducted on 19 August 2026. Thi
 
 ## Interview 1
 
-**Interviewer(s):** Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabelle Naa Dedei Armah
+**Interviewer(s):** Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabele Naa Dedei Armah, Stephanie Kyerewaa Adjapong
 **Approx. date/time:** ~3–5 pm, 19 August 2026
 **Location on campus:** NNB car park
 **Interviewee (anonymous description):** Level 300 female student
@@ -32,7 +32,7 @@ Not recorded.
 
 ## Interview 2
 
-**Interviewer(s):** Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabelle Naa Dedei Armah
+**Interviewer(s):** Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabele Naa Dedei Armah, Stephanie Kyerewaa Adjapong
 **Approx. date/time:** ~3–5 pm, 19 August 2026
 **Location on campus:** NNB car park
 **Interviewee (anonymous description):** Level 300 female student
@@ -54,7 +54,7 @@ None noted.
 
 ## Interview 3
 
-**Interviewer(s):** Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabelle Naa Dedei Armah
+**Interviewer(s):** Obed Boateng Ayim, Emmanuella Ewurama Prah, Annabele Naa Dedei Armah, Stephanie Kyerewaa Adjapong
 **Approx. date/time:** ~3–5 pm, 19 August 2026
 **Location on campus:** NNB car park
 **Interviewee (anonymous description):** Level 300 female student

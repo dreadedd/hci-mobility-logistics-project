@@ -4,11 +4,11 @@ Complete this file only after conducting real usability tests.
 
 | Participant | Task 1 | Task 2 | Task 3 | Task 4 | Task 5 | Assistance Needed? | Main Issue Observed |
 |---|---|---|---|---|---|---|---|
-| P01 |  |  |  |  |  |  |  |
-| P02 |  |  |  |  |  |  |  |
-| P03 |  |  |  |  |  |  |  |
-| P04 |  |  |  |  |  |  |  |
-| P05 |  |  |  |  |  |  |  |
+| P01 |yes  |yes  |yes  |yes  | yes |  |  |
+| P02 |yes  |yes  |yes  |yes  |yes  |  |  |
+| P03 |  yes|yes  |yes  |yes  |yes  |  |  |
+| P04 | yes |yes  |yes  |yes  |yes  |  |  |
+| P05 | yes |yes  |yes  |yes  |yes  |  |  |
 
 Use one of these task outcomes:
 - Completed
